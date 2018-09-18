@@ -1,0 +1,18 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#js-icon-list {
+  position: absolute;
+  left: 20px;
+  list-style: none;
+}
+
+#js-icon-list > li {
+  margin-top: 10px;
+}
+
+#js-icon-list > li > img {
+  transition: all 0.1s ease;
+}

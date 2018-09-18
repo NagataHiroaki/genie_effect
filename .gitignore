@@ -1,0 +1,5 @@
+dist/
+mock/
+!src/mock/
+yarn.lock
+package-lock.json
